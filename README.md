@@ -130,9 +130,10 @@ Best Practices for ML Engineering</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/MLOps-Papers/blob/master/ml(63).pdf" style="text-decoration:none;">Accelerating Pattern Matching Queries
 in Hybrid CPU-FPGA Architectures</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/MLOps-Papers/blob/master/ml(64).pdf" style="text-decoration:none;">Go for SREs Using Python</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/MLOps-Papers/blob/master/ml(64).pdf" style="text-decoration:none;">Challenges and Experiences with MLOps for Performance Diagnostics in Hybrid-Cloud Enterprise Software Deployments</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/MLOps-Papers/blob/master/ml(65).pdf" style="text-decoration:none;">
 The Remediation Ballet </a></li> 
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/MLOps-Papers/blob/master/ml(66).pdf" style="text-decoration:none;">
+CodeReef: an open platform for portable MLOps, reusable automation actions and reproducible benchmarking </a></li> 
    </ul>
